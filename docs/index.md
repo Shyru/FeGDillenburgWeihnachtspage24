@@ -1,6 +1,7 @@
 ---
 title: FeG Dillenburg Weihnachtsgruß
 layout: default
+slug: index
 ---
 
 # Dies ist der Jekyll test
