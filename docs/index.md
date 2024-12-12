@@ -1,3 +1,8 @@
+---
+title: FeG Dillenburg Weihnachtsgruß
+layout: default
+---
+
 # Dies ist der Jekyll test
 Mal schauen ob das so klappt, wie ich mir das vorstelle!
 
