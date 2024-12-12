@@ -86,9 +86,9 @@
     // the resulting HTML as a child element into the correct position in an element with the
     // id "welcomments__comment-container".
     placeholderCommentFactory: function (comment) {
-      var year = new Intl.DateTimeFormat("en", {year: "numeric"}).format(comment.date);
-      var month = new Intl.DateTimeFormat("en", {month: "long"}).format(comment.date);
-      var day = new Intl.DateTimeFormat("en", {day: "2-digit"}).format(comment.date);
+      var year = new Intl.DateTimeFormat("de", {year: "numeric"}).format(comment.date);
+      var month = new Intl.DateTimeFormat("de", {month: "long"}).format(comment.date);
+      var day = new Intl.DateTimeFormat("de", {day: "2-digit"}).format(comment.date);
       var avatarUrl =  comment.author.avatar_url ||
         `https://eu.ui-avatars.com/api/?background=random&name=${comment.author.name}`
 
@@ -97,7 +97,7 @@
         element_id        = "welcomments__comment-${comment.id}"
         element_classname = "welcomments__comment"
         nesting_level     = "0"
-        formatted_date    = "${day} ${month}, ${year}"
+        formatted_date    = "${day}. ${month}, ${year}"
         author_name       = "${comment.author.name}"
         author_website    = "${comment.author.website}"
         author_avatar_url = "${avatarUrl}"
