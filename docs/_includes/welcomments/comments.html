@@ -75,10 +75,10 @@
     // id "welcomments__comment-count-title". It's okay if that element doesn't exist.
     commentCountTitleFactory: function (commentCount) {
       if (commentCount === 0) {
-        return "No comments yet!";
+        return "Noch keine Kommentare!";
       }
 
-      return commentCount === 1 ? "One comment" : `${commentCount} comments`;
+      return commentCount === 1 ? "Ein Kommentar" : `${commentCount} Kommentare`;
     },
 
     // Builds comments dynamically when they are not part of the static HTML of the rest of
