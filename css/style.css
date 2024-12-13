@@ -1,3 +1,12 @@
+@font-face {
+    font-family: 'DreamFlourish';
+    src: url('../assets/DreamFlourish.otf') format('opentype');
+}
+
+h1 {
+    font-family: 'DreamFlourish', sans-serif;
+}
+
 body {
     background-color: #013220; /* Dark green resembling Christmas color */
     color: white;
