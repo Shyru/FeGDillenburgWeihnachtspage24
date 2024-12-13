@@ -2,6 +2,18 @@ body {
     background-color: #013220; /* Dark green resembling Christmas color */
     color: white;
     font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.content-container {
+    width: 30%;
+    max-width: 100%;
+    padding: 0 10px;
+    box-sizing: border-box;
 }
 
 .welcomments__comment-form {
