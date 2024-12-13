@@ -3,7 +3,7 @@
     src: url('../assets/DreamFlourish.otf') format('opentype');
 }
 
-img {
+.container img {
     max-width: 100%;
     height: auto;
     display: block;
@@ -12,6 +12,8 @@ img {
 
 h1 {
     font-family: 'DreamFlourish', sans-serif;
+    padding-top: 50px;
+    padding-bottom: 20px;
 }
 
 body {
