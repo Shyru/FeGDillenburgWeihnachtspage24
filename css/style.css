@@ -72,3 +72,7 @@ body {
 .welcomments__container .welcomments__comment-message {
     color: #d4f0e7; /* Light color for better contrast */
 }
+
+.welcomments__container .welcomments__comment-time {
+    color: #a9c9b8; /* Light color for better readability */
+}
