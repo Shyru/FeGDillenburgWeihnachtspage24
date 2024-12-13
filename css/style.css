@@ -3,6 +3,13 @@
     src: url('../assets/DreamFlourish.otf') format('opentype');
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
 h1 {
     font-family: 'DreamFlourish', sans-serif;
 }
