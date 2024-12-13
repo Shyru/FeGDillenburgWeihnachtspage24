@@ -41,6 +41,14 @@ body {
     color: #a9c9b8;
 }
 
+.welcomments__container .welcomments__comment-form input:focus,
+.welcomments__container .welcomments__comment-form textarea:focus {
+    color: white;
+    background-color: #011810; /* Reapply background color on focus */
+    outline: none;
+    border-color: #0e5a42; /* Slightly lighter border on focus */
+}
+
 .welcomments__container .welcomments__comment-form button {
     background-color: #0a3d2e;
     color: white;
@@ -71,6 +79,10 @@ body {
 
 .welcomments__container .welcomments__comment-message {
     color: #d4f0e7; /* Light color for better contrast */
+}
+
+.welcomments__container .welcomments__comment-count-title {
+    color: #d4f0e7; /* Same light color as comment text */
 }
 
 .welcomments__container .welcomments__comment-time {
