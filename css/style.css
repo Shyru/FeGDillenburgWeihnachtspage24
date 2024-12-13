@@ -1,10 +1,10 @@
 @font-face {
-    font-family: 'FallInLove';
-    src: url('../assets/Fall in love.ttf') format('truetype');
+    font-family: 'Cerayon';
+    src: url('../assets/Cerayon.otf') format('opentype');
 }
 
 p {
-    font-family: 'FallInLove', sans-serif;
+    font-family: 'Cerayon', sans-serif;
 }
 
 @font-face {
