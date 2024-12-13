@@ -18,15 +18,15 @@ body {
     margin: 0 auto;
 }
 
-.welcomments__comment-form {
+.welcomments__container .welcomments__comment-form {
     background-color: #022b1c; /* Slightly lighter green for contrast */
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-.welcomments__comment-form input,
-.welcomments__comment-form textarea {
+.welcomments__container .welcomments__comment-form input,
+.welcomments__container .welcomments__comment-form textarea {
     width: 100%;
     padding: 10px;
     margin-bottom: 10px;
@@ -36,12 +36,12 @@ body {
     color: white;
 }
 
-.welcomments__comment-form input::placeholder,
-.welcomments__comment-form textarea::placeholder {
+.welcomments__container .welcomments__comment-form input::placeholder,
+.welcomments__container .welcomments__comment-form textarea::placeholder {
     color: #a9c9b8;
 }
 
-.welcomments__comment-form button {
+.welcomments__container .welcomments__comment-form button {
     background-color: #0a3d2e;
     color: white;
     padding: 10px 20px;
@@ -51,11 +51,11 @@ body {
     transition: background-color 0.3s;
 }
 
-.welcomments__comment-form button:hover {
+.welcomments__container .welcomments__comment-form button:hover {
     background-color: #0e5a42;
 }
 
-.welcomments__comment-reply-link {
+.welcomments__container .welcomments__comment-reply-link {
     display: inline-block;
     background-color: #0a3d2e;
     color: white;
@@ -65,10 +65,10 @@ body {
     transition: background-color 0.3s;
 }
 
-.welcomments__comment-reply-link:hover {
+.welcomments__container .welcomments__comment-reply-link:hover {
     background-color: #0e5a42;
 }
 
-.welcomments__comment-message {
+.welcomments__container .welcomments__comment-message {
     color: #d4f0e7; /* Light color for better contrast */
 }
