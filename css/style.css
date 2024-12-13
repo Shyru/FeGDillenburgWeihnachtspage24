@@ -1,4 +1,13 @@
 @font-face {
+    font-family: 'FallInLove';
+    src: url('../assets/Fall in love.ttf') format('truetype');
+}
+
+p {
+    font-family: 'FallInLove', sans-serif;
+}
+
+@font-face {
     font-family: 'DreamFlourish';
     src: url('../assets/DreamFlourish.otf') format('opentype');
 }
