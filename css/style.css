@@ -3,3 +3,40 @@ body {
     color: white;
     font-family: sans-serif;
 }
+
+.welcomments__comment-form {
+    background-color: #022b1c; /* Slightly lighter green for contrast */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.welcomments__comment-form input,
+.welcomments__comment-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #0a3d2e;
+    border-radius: 4px;
+    background-color: #013220;
+    color: white;
+}
+
+.welcomments__comment-form input::placeholder,
+.welcomments__comment-form textarea::placeholder {
+    color: #a9c9b8;
+}
+
+.welcomments__comment-form button {
+    background-color: #0a3d2e;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.welcomments__comment-form button:hover {
+    background-color: #0e5a42;
+}
