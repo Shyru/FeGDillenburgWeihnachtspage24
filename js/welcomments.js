@@ -80,8 +80,8 @@ W("Array.prototype.includes", function(f) {
                         d.preventDefault();
                         "true" !== c.getAttribute("data-is-replying") ? (p(),
                             c.setAttribute("data-is-replying", "true"),
-                            c.innerText = "Abbrechen'",
-                            t.placeholder = "Antwort an " + b,
+                            c.innerText = "Abbrechen",
+                            t.placeholder = "Schreibe Deine Antwort an " + b,
                             y.value = a.getAttribute("data-comment-id"),
                             a.appendChild(n)) : p()
                     }
