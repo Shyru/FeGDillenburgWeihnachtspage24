@@ -81,10 +81,10 @@ body {
     color: #d4f0e7; /* Light color for better contrast */
 }
 
-.welcomments__container .welcomments__comment-count-title {
+.welcomments__container .welcomments__comments-title {
     color: #d4f0e7; /* Same light color as comment text */
 }
 
-.welcomments__container .welcomments__comment-time {
+.welcomments__container .welcomments__comment-time a {
     color: #a9c9b8; /* Light color for better readability */
 }
