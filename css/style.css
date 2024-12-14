@@ -49,6 +49,10 @@ body {
     }
 }
 */
+
+.container {
+    padding-left:40px;
+}
 .content-container {
     width: 90%;
     max-width: 500px;
