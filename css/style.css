@@ -51,6 +51,7 @@ body {
     padding: 0 10px;
     box-sizing: border-box;
     margin: 0 auto;
+    overflow:scroll;
 }
 
 .welcomments__container .welcomments__comment-form {
