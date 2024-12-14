@@ -10,7 +10,7 @@ h1 {
     font-size: 3.5rem;
 }
 
-p {
+.content p {
     font-family: 'Cerayon', sans-serif;
     font-size:24px;
 }
@@ -42,12 +42,13 @@ body {
     font-size: 16px; /* Base font size */
 }
 
+/*
 @media (max-width: 600px) {
     body {
-        font-size: 18px; /* Increase font size for smaller screens */
+        font-size: 18px;
     }
 }
-
+*/
 .content-container {
     width: 90%;
     max-width: 500px;
