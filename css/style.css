@@ -5,7 +5,7 @@
 
 h1 {
     font-family: 'DreamFlourish', sans-serif;
-    padding-top: 120px;
+    padding-top: 20px;
     padding-bottom: 20px;
     font-size: 3.5rem;
 }
@@ -51,7 +51,8 @@ body {
 */
 
 .container {
-    padding-left:40px;
+    position:absolute;
+    top:0px;
 }
 .content-container {
     width: 90%;
