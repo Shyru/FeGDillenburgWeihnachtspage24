@@ -7,4 +7,4 @@ Als Gemeindeleitung wünschen wir euch ein gesegnetes und friedevolles Weihnacht
 An dieser Stelle wollen wir euch/dir auch ein herzliches Dankeschön sagen - danke für eure Gebete für uns, für euren Einsatz in der Gemeinde, für euer Dasein. Es ist ein Privileg, mit euch unterwegs zu sein, von Gott beschenkt und von Gott bewegt!
 
 Eure Gemeindeleitung<br>
-Lothar Beaupain, Daniel Haas, Magnus Manderbach, Dietrich Orth, Andre Pulfrich, Silke Sauer 
+Lothar Beaupain, Daniel Haas, Magnus Manderbach, Dietrich Orth, Andre Pulfrich, Silke Sauer, Danilo Vollmer 
